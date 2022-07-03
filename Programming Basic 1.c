@@ -11,7 +11,7 @@
 //\n - New Line   dasdasda
   //              asdasdasd
 
-/*
+/* Hackrank first quection
 int main()
 {
 
